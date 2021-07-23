@@ -1,0 +1,37 @@
+
+
+    #container-imagem
+    {
+      margin-top: 0;
+      margin-bottom: 0;
+      
+
+    }
+    .border-radius-50{
+        border-radius: 50%;
+
+    }
+    img{
+        height: inherit!important;
+        vertical-align: middle;
+        border-style: none;
+        height: auto;
+        width: 140px;
+    }
+    body {
+        background-color:rgba(52, 83, 27, 0.747);
+       }
+    #description{
+        margin-top: 20px;
+        padding: 50px;padding-top: 50px; padding-right: 50px;padding-bottom: 50px;padding-left: 50px;
+        border-radius: 20px; border-top-left-radius: 20px;border-top-right-radius: 20px;border-bottom-left-radius: 20px;border-top-right-radius: 20px;
+
+
+    }
+    .bg-ghost{
+        background-color: #fafbff;
+    }
+
+    
+    
+    
